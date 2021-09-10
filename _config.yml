@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+name: Allison Cheng, Awesome Dev
+markdown: kramdown
+permalink: /[repo-name]/:year/:month/:day/:title
