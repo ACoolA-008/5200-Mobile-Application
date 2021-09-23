@@ -16,3 +16,8 @@ Images:
 1.Logcat lifecycle: <img width="1440" alt="2 2 Logcat lifecycle" src="https://user-images.githubusercontent.com/71044804/134473697-e709bec5-7ad3-4976-9edf-40b2d3dd176d.png">
 2.Logcat lifecycle for second activity: <img width="1440" alt="2 2 Logcat lifecycle for second activity " src="https://user-images.githubusercontent.com/71044804/134473741-2020aa4b-5dfc-4596-b951-0b4c1a4cc78f.png">
 3.save instance state: <img width="1413" alt="2 2 instance state" src="https://user-images.githubusercontent.com/71044804/134473796-cf325ed5-e8d1-4a66-8eef-8ec9e1e02721.png">
+
+HM Images:
+1.Vertical <img width="1440" alt="HM Vertical" src="https://user-images.githubusercontent.com/71044804/134578126-e457d686-4616-4d25-9754-6bca9576b0ab.png">
+2.Saved and Restored Horizontal Var: 
+<img width="1440" alt="HM Saved and Restored Horizontal Var" src="https://user-images.githubusercontent.com/71044804/134578195-f08b374d-d5bd-49ad-b4ed-bd8832e7e6c7.png">
