@@ -10,4 +10,3 @@ title: Allison Cheng
 post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
-	
