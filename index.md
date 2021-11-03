@@ -14,9 +14,6 @@ title: Allison Cheng
 	  {% endfor %}
 	</ul>
 
----
-layout: default
-title: Dilraj Dhillon, Awesome Dev
----
+
 
 
