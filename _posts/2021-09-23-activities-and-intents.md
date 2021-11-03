@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Chapter2 activities and intents Assignment"
-date: 2021-09-23
+title: "A2"
+date: 2021-09-23 updated: 2021-11-02
 ---
 
 Lesson 2.1
