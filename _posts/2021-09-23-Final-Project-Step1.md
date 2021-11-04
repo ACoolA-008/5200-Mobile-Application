@@ -4,9 +4,9 @@ title: "Final Project Step1 50 Problems"
 date: 2021-09-09
 ---
 
-1.Cooking Recipe Sharing \n
-2.Shopping Cart
-3.Car Service
+1.Cooking Recipe Sharing<br/>
+2.Shopping Cart<br/>
+3.Car Service<br/>
 4.Filing Tax
 5.Graduate School Application
 6.Wireless Money Transfer
