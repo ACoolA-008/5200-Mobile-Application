@@ -59,49 +59,49 @@ Three Selected Problems to Explore further
 
  
 
-A Foreign tourist utilizing a restaurant ordering system
-Persona and scenario: A foreign tourist who wants to order local cuisine at a restaurant. The tourist knows little about the restaurant and does not understand the written menu.
-Trigger: The tourist needs to order food that does not contain allergic ingredients however the restaurant staff has limited language proficiency and time to fully explain details of the food.
-Desired outcome: The tourist got access to the restaurant’s ordering system that contains an electronic menu by scanning the QR code. The menu is presented in a pdf or any format written in the local language but is okay to be processed and translated into English or any other languagea as needed. The ordering system has multiple payment methods. An order is confirmed with a given confirmation number.
-Base Knowledge: Tourists should follow the QR code to access the menu. Recognize and utilize the functions of the ordering system to satisfy his/her needs.
-Required Knowledge: The tourist needs to know how to scan the QR code, which auto-translation app to use, how to order food, information about his/her payment.
-Artifacts:
-Tools:
+A Foreign tourist utilizing a restaurant ordering system<br/>
+Persona and scenario: A foreign tourist who wants to order local cuisine at a restaurant. The tourist knows little about the restaurant and does not understand the written menu.<br/>
+Trigger: The tourist needs to order food that does not contain allergic ingredients however the restaurant staff has limited language proficiency and time to fully explain details of the food.<br/>
+Desired outcome: The tourist got access to the restaurant’s ordering system that contains an electronic menu by scanning the QR code. The menu is presented in a pdf or any format written in the local language but is okay to be processed and translated into English or any other languagea as needed. The ordering system has multiple payment methods. An order is confirmed with a given confirmation number.<br/>
+Base Knowledge: Tourists should follow the QR code to access the menu. Recognize and utilize the functions of the ordering system to satisfy his/her needs.<br/>
+Required Knowledge: The tourist needs to know how to scan the QR code, which auto-translation app to use, how to order food, information about his/her payment.<br/>
+Artifacts:<br/>
+Tools:<br/>
 A camera phone to scan the QR code
 Translation app
 Payment: Card, cash…
-Information:
+Information:<br/>
 What ingredients are used in the ordered cuisine
 When the order is accepted, what time is the food ready for pick-up
 How much to pay and in what ways
  
 
-Ask Siri to call my mom
-Persona and scenario: I got a job offer, my mom is the first person I want to share this information with while I’m driving.
-Trigger: Cannot hold the phone in my hands when I’m driving. The sound is not loud enough to hear so I need to use earphones.
-Desired outcome: Double-tap earphones to activate Siri. Passing a voice command “call mom” to Siri through earphones. Interact with Siri and giving the accurate commands to find mom profile in my contact book. If the number is right, ask Siri to call. If the number is wrong, give the specific number to Siri.
-Base Knowledge: Knowing the voice command functions that iPhone has. Having my mom’s accurate number.
-Required Knowledge: Know how to interact with my earphones and pass commands to my iPhone. Understand voice-command features that my iPhone supports.
-Artifacts:
-Tools:
+Ask Siri to call my mom<br/>
+Persona and scenario: I got a job offer, my mom is the first person I want to share this information with while I’m driving.<br/>
+Trigger: Cannot hold the phone in my hands when I’m driving. The sound is not loud enough to hear so I need to use earphones.<br/>
+Desired outcome: Double-tap earphones to activate Siri. Passing a voice command “call mom” to Siri through earphones. Interact with Siri and giving the accurate commands to find mom profile in my contact book. If the number is right, ask Siri to call. If the number is wrong, give the specific number to Siri.<br/>
+Base Knowledge: Knowing the voice command functions that iPhone has. Having my mom’s accurate number.<br/>
+Required Knowledge: Know how to interact with my earphones and pass commands to my iPhone. Understand voice-command features that my iPhone supports.<br/>
+Artifacts:<br/>
+Tools:<br/>
 Earphones that's compatible to my iPhone
 An iPhone
  
 
-Pharmacy Delivery
-Persona and scenario: I started to use Amazon pharmacy where my Amazon Prime is connected to have my medications delivered to my house.
-Trigger: I do not drive anymore. Pharmacy delivery is best for the elderly and people who have no easy access to the local pharmacy stores.
-Desired outcome: Amazon pharmacy records information such as my health insurance plan, address, identifications, doctors, and clinics. Doctor’s prescriptions are approved. Amazon pharmacy sells the specific drug that I need and prepares the delivery. Amazon pharmacy prepares my package and passes it to prime delivery. Actual delivery is conducted by Amazon Prime.
-Base Knowledge: I should know my health insurance information, doctor and clinic info, address. Whether Amazon has the specific drug that I need.
-Required Knowledge: Need to know the start day and expiration date of my insurance and of my prescriptions. Need to have the access to my prescriptions either in written or electronic version form.
-Artifacts:
-Tools:
+Pharmacy Delivery<br/>
+Persona and scenario: I started to use Amazon pharmacy where my Amazon Prime is connected to have my medications delivered to my house.<br/>
+Trigger: I do not drive anymore. Pharmacy delivery is best for the elderly and people who have no easy access to the local pharmacy stores.<br/>
+Desired outcome: Amazon pharmacy records information such as my health insurance plan, address, identifications, doctors, and clinics. Doctor’s prescriptions are approved. Amazon pharmacy sells the specific drug that I need and prepares the delivery. Amazon pharmacy prepares my package and passes it to prime delivery. Actual delivery is conducted by Amazon Prime.<br/>
+Base Knowledge: I should know my health insurance information, doctor and clinic info, address. Whether Amazon has the specific drug that I need.<br/>
+Required Knowledge: Need to know the start day and expiration date of my insurance and of my prescriptions. Need to have the access to my prescriptions either in written or electronic version form.<br/>
+Artifacts:<br/>
+Tools:<br/>
 Mobile phone/Computer
 Amazon app
 Amazon Pharmacy app
 Health insurance app
 Healthcare provider app
-Information:
+Information:<br/>
 What medications are listed in the prescription
 When to start and stop taking medications
 Whether the medications are included in my insurance
