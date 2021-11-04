@@ -7,49 +7,49 @@ date: 2021-09-09
 1.Cooking Recipe Sharing<br/>
 2.Shopping Cart<br/>
 3.Car Service<br/>
-4.Filing Tax
-5.Graduate School Application
-6.Wireless Money Transfer
-7.Food Delivery
-8.Event Planning
-10.Creating Calendar
-11.Notes Taking
-12.Creating document templates
-13.Promoting pipelines of a biotech company
-14.Tracing Status of approval of a new drug
-15.Tacking employee performance
-16.Money Expenses
-17.Long-time waiting in line at a concert
-18.Choosing what to eat, calculating calories,etc according to nutrition intake guidelines
-19.Finding expirations of all the important events
-20.Finding the entertainment that I spent the most of my time on
-21.How to prioritize my work when I am extremely busy
-22.Finding the fastest routes to do grocery shopping in 3 different stores 
-23.Find out free time of my friend's and mine so we can block our time to hang out
-24.Find the place to hangout together according to weather, hobits,price...
-25.Planning interview time, adding notifications to the expected timelines
-26.Creating inventory for items to sell
-27.Don't know what to do during exercise: Making an app to generate 45-min Exercise sections automatically chosen from YouTube
-28.Selling used items online
-29.Tracking learning progress
-30.Comparing cars to buy
-31.Calculating CO2 footprints of an item that I purchased
-32.Planning a route with beautiful view to drive on
-33.Finding music that aligns with moods of people
-34.Online date match app
-35.Personality test
-36.Looking for the right PhD program
-37.Real-time Crypto Currency Calculator
-38.Translating old languages
-39.Finding who are the scholars to solve particular problems
-40.Sharing textbooks, learning resources,etc
-41.Storing passwords for different online accounts
-42.Auto customer services system to answer repeated questions
-43.Calculating my used items
-44.Findnig carpool mates from my classmates, co-workers, members in the same cycling class with me.
-45.Finding freelance jobs online that fits my schedule
-46.Generating my network and making connections with people at new places before traveling
-47.Having dinner with random matching people
+4.Filing Tax<br/>
+5.Graduate School Application<br/>
+6.Wireless Money Transfer<br/>
+7.Food Delivery<br/>
+8.Event Planning<br/>
+10.Creating Calendar<br/>
+11.Notes Taking<br/>
+12.Creating document templates<br/>
+13.Promoting pipelines of a biotech company<br/>
+14.Tracing Status of approval of a new drug<br/>
+15.Tacking employee performance<br/>
+16.Money Expenses<br/>
+17.Long-time waiting in line at a concert<br/>
+18.Choosing what to eat, calculating calories,etc according to nutrition intake guidelines<br/>
+19.Finding expirations of all the important events<br/>
+20.Finding the entertainment that I spent the most of my time on<br/>
+21.How to prioritize my work when I am extremely busy<br/>
+22.Finding the fastest routes to do grocery shopping in 3 different stores<br/>
+23.Find out free time of my friend's and mine so we can block our time to hang out<br/>
+24.Find the place to hangout together according to weather, hobits,price...<br/>
+25.Planning interview time, adding notifications to the expected timelines<br/>
+26.Creating inventory for items to sell<br/>
+27.Don't know what to do during exercise: Making an app to generate 45-min Exercise sections automatically chosen from YouTube<br/>
+28.Selling used items online<br/>
+29.Tracking learning progress<br/>
+30.Comparing cars to buy<br/>
+31.Calculating CO2 footprints of an item that I purchased<br/>
+32.Planning a route with beautiful view to drive on<br/>
+33.Finding music that aligns with moods of people<br/>
+34.Online date match app<br/>
+35.Personality test<br/>
+36.Looking for the right PhD program<br/>
+37.Real-time Crypto Currency Calculator<br/>
+38.Translating old languages<br/>
+39.Finding who are the scholars to solve particular problems<br/>
+40.Sharing textbooks, learning resources,etc<br/>
+41.Storing passwords for different online accounts<br/>
+42.Auto customer services system to answer repeated questions<br/>
+43.Calculating my used items<br/>
+44.Findnig carpool mates from my classmates, co-workers, members in the same cycling class with me.<br/>
+45.Finding freelance jobs online that fits my schedule<br/>
+46.Generating my network and making connections with people at new places before traveling<br/>
+47.Having dinner with random matching people<br/>
 
 
 
