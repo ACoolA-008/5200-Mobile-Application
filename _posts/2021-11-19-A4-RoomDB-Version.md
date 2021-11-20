@@ -17,3 +17,5 @@ Also I optimized the components to better fit the assignment requirements as the
 ![Screen Shot 2021-11-19 at 7 31 55 PM](https://user-images.githubusercontent.com/71044804/142713103-737d333b-a23b-48d8-b274-e2454f075cab.png)
 
 Next, I will use calendar view to allow user to be able to choose a specific deadline date for the task duedates to work.
+
+Still working on the ToDo Project :)
