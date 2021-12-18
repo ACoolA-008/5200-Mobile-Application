@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreateEvent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/record_button"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/record_textView"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/mic2"/>
+
+        <TextView
+            android:id="@+id/record_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/purple_500"
+            android:textSize="20dp"
+            android:text="Record the voice command"/>
+
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/edit_Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:hint="Enter your text"/>
+
+
+    <Button
+        android:id="@+id/time_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="25dp"
+        android:text="Pick a Time"
+        android:background="@color/teal_700"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/date_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="25dp"
+        android:text="Pick a Date"
+        android:background="@color/teal_700"
+        android:textColor="@color/black"/>
+
+<Button
+    android:id="@+id/complete_Button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="30dp"
+    android:text="Complete"
+    android:textColor="@color/black"
+    android:background="@color/teal_700"/>
+
+</LinearLayout>
